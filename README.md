@@ -66,7 +66,7 @@ I'm <b>Raúl Cano Briseño</b> from México 🇲🇽<br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+
 
 <div align="center">
 
